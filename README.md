@@ -68,7 +68,7 @@
 
 ###
 
-<p align="left">💪 En parallèle, je suis aussi un grand fan de sport, notamment les sports de combat, le ski, la musculation ou encore le tenis. <br><br>Le sport, tout comme le dev, m’aide à rester discipliné et à toujours viser la perfection.</p>
+<p align="left">💪 En parallèle, je suis aussi un grand fan de sport, notamment les sports de combat, le ski, la musculation ou encore le tennis. <br><br>Le sport, tout comme le dev, m’aide à rester discipliné et à toujours viser la perfection.</p>
 
 ###
 
